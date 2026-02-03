@@ -1,0 +1,15 @@
+# Table of contents
+
+* [📊 Introduction](README.md)
+* [📦 Installation](installation.md)
+* [📋 Dashboard & Views](dashboard-views.md)
+* [✅ Task Management](task-management.md)
+* [🤖 AI Suggestions](ai-suggestions.md)
+* [🏃 Sprints](sprints.md)
+* [💰 Budget & Invoicing](budget-invoicing.md)
+* [📅 Calendar Sync](calendar-sync.md)
+* [👥 Client Portal](client-portal.md)
+* [📈 Reporting & Analytics](reporting-analytics.md)
+* [💬 Collaboration](collaboration.md)
+* [⚙️ Settings](settings.md)
+* [🆘 Support](support.md)
