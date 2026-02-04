@@ -14,7 +14,7 @@ Advanced reporting and project management for Perfex CRM: Gantt charts, Kanban b
 
 See [Installation](installation.md) for details.
 
----
+***
 
 ### 2. Understand the Menu
 
@@ -22,8 +22,9 @@ After activation, **Project Roadmap** appears in the sidebar. Click it to expand
 
 **Not sure what a submenu item does?** Use the **[Menu Guide](menu-guide.md)**. It lists every item, what it does, and what (if anything) you need to configure.
 
----
+***
 
+<<<<<<< HEAD
 ### 3. Use the Main Views
 
 1. Open any project from **Projects**
