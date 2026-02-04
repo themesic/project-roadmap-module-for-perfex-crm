@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📖 Introduction](README.md)
-* [📍 **Menu Guide** – What each submenu does](menu-guide.md)
+* [📍 Menu Guide – What each submenu does](menu-guide.md)
 * [🚀 Installation](installation.md)
 * [📊 Dashboard & Views](dashboard-views.md)
 * [✅ Task Management](task-management.md)
