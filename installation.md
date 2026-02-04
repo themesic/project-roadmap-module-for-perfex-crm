@@ -41,9 +41,15 @@
 
 ## ✅ Post-Installation
 
-- **Permissions:** Staff roles can be configured in Setup → Staff → Roles (View, Edit, Manage)
-- **Custom Fields:** Admins can add project/task custom fields via Project Roadmap → Custom Fields
-- **AI Suggestions:** Enable in Project Roadmap → AI Suggestions Settings (admin only)
+After activation, use the **[Menu Guide](menu-guide.md)** to see what each submenu does and what needs configuration.
+
+| If you want to… | Go to |
+|------------------|-------|
+| Set permissions | Setup → Staff → Roles (View, Edit, Manage for Project Roadmap) |
+| Add custom fields | Project Roadmap → Custom Fields |
+| Enable AI suggestions | Project Roadmap → AI Suggestions Settings |
+| Set up email digests | Project Roadmap → Email Digest (+ cron for automated sending) |
+| Configure workflows | Project Roadmap → Automated Workflows |
 
 ---
 
