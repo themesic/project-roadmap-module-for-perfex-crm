@@ -15,7 +15,7 @@ This guide explains **every item** under **Project Roadmap** in the sidebar. Use
 
 ## Submenu Items (in Sidebar Order)
 
-### 1. Task Bookmarks
+### 1. ⭐ Task Bookmarks
 
 | | |
 |---|---|
@@ -27,7 +27,7 @@ This guide explains **every item** under **Project Roadmap** in the sidebar. Use
 
 ---
 
-### 2. Timesheet Approvals
+### 2. ⏱️ Timesheet Approvals
 
 | | |
 |---|---|
@@ -41,7 +41,7 @@ This guide explains **every item** under **Project Roadmap** in the sidebar. Use
 
 ---
 
-### 3. Resource Allocation
+### 3. 👥 Resource Allocation
 
 | | |
 |---|---|
@@ -53,7 +53,7 @@ This guide explains **every item** under **Project Roadmap** in the sidebar. Use
 
 ---
 
-### 4. Resource Utilization Report
+### 4. 📊 Resource Utilization Report
 
 | | |
 |---|---|
@@ -65,7 +65,7 @@ This guide explains **every item** under **Project Roadmap** in the sidebar. Use
 
 ---
 
-### 5. Analytics
+### 5. 📈 Analytics
 
 | | |
 |---|---|
@@ -77,7 +77,7 @@ This guide explains **every item** under **Project Roadmap** in the sidebar. Use
 
 ---
 
-### 6. Custom Fields *(Admin only)*
+### 6. 📎 Custom Fields *(Admin only)*
 
 | | |
 |---|---|
@@ -89,7 +89,7 @@ This guide explains **every item** under **Project Roadmap** in the sidebar. Use
 
 ---
 
-### 7. Notification Settings
+### 7. 🔔 Notification Settings
 
 | | |
 |---|---|
@@ -100,7 +100,7 @@ This guide explains **every item** under **Project Roadmap** in the sidebar. Use
 
 ---
 
-### 8. Automated Workflows
+### 8. ⚡ Automated Workflows
 
 | | |
 |---|---|
@@ -112,7 +112,7 @@ This guide explains **every item** under **Project Roadmap** in the sidebar. Use
 
 ---
 
-### 9. Task Templates
+### 9. 📝 Task Templates
 
 | | |
 |---|---|
@@ -124,7 +124,7 @@ This guide explains **every item** under **Project Roadmap** in the sidebar. Use
 
 ---
 
-### 10. Centralized File Storage
+### 10. 📁 Centralized File Storage
 
 | | |
 |---|---|
@@ -136,7 +136,7 @@ This guide explains **every item** under **Project Roadmap** in the sidebar. Use
 
 ---
 
-### 11. Branded Portal Settings *(Admin only)*
+### 11. 🎨 Branded Portal Settings *(Admin only)*
 
 | | |
 |---|---|
@@ -147,7 +147,7 @@ This guide explains **every item** under **Project Roadmap** in the sidebar. Use
 
 ---
 
-### 12. Email Digest
+### 12. 📧 Email Digest
 
 | | |
 |---|---|
@@ -160,7 +160,7 @@ This guide explains **every item** under **Project Roadmap** in the sidebar. Use
 
 ---
 
-### 13. Custom Report Builder
+### 13. 📋 Custom Report Builder
 
 | | |
 |---|---|
@@ -172,7 +172,7 @@ This guide explains **every item** under **Project Roadmap** in the sidebar. Use
 
 ---
 
-### 14. AI Suggestions Settings *(Admin only)*
+### 14. 🤖 AI Suggestions Settings *(Admin only)*
 
 | | |
 |---|---|
@@ -188,20 +188,20 @@ This guide explains **every item** under **Project Roadmap** in the sidebar. Use
 
 | Feature | Needs setup? | Where to configure |
 |---------|--------------|--------------------|
-| Task Bookmarks | No | — |
-| Timesheet Approvals | No | — |
-| Resource Allocation | No | — |
-| Resource Utilization | No | — |
-| Analytics | No | — |
-| Custom Fields | Yes | Project Roadmap → Custom Fields |
-| Notification Settings | Yes (per user) | Project Roadmap → Notification Settings |
-| Automated Workflows | Yes | Project Roadmap → Automated Workflows |
-| Task Templates | Yes (create templates) | Project Roadmap → Task Templates |
-| Centralized File Storage | No | — |
-| Branded Portal | Yes | Project Roadmap → Branded Portal Settings |
-| Email Digest | Yes (per user + cron) | Project Roadmap → Email Digest |
-| Custom Report Builder | Yes (create configs) | Project Roadmap → Custom Report Builder |
-| AI Suggestions | Yes (optional API) | Project Roadmap → AI Suggestions Settings |
+| ⭐ Task Bookmarks | No | — |
+| ⏱️ Timesheet Approvals | No | — |
+| 👥 Resource Allocation | No | — |
+| 📊 Resource Utilization | No | — |
+| 📈 Analytics | No | — |
+| 📎 Custom Fields | Yes | Project Roadmap → Custom Fields |
+| 🔔 Notification Settings | Yes (per user) | Project Roadmap → Notification Settings |
+| ⚡ Automated Workflows | Yes | Project Roadmap → Automated Workflows |
+| 📝 Task Templates | Yes (create templates) | Project Roadmap → Task Templates |
+| 📁 Centralized File Storage | No | — |
+| 🎨 Branded Portal | Yes | Project Roadmap → Branded Portal Settings |
+| 📧 Email Digest | Yes (per user + cron) | Project Roadmap → Email Digest |
+| 📋 Custom Report Builder | Yes (create configs) | Project Roadmap → Custom Report Builder |
+| 🤖 AI Suggestions | Yes (optional API) | Project Roadmap → AI Suggestions Settings |
 
 ---
 

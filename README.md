@@ -24,7 +24,6 @@ After activation, **Project Roadmap** appears in the sidebar. Click it to expand
 
 ***
 
-<<<<<<< HEAD
 ### 3. Use the Main Views
 
 1. Open any project from **Projects**
@@ -39,19 +38,19 @@ See [Dashboard & Views](dashboard-views.md) for details.
 
 | Topic | What you’ll find |
 |-------|------------------|
-| **[Menu Guide](menu-guide.md)** | What each submenu item does and how to configure it |
-| [Installation](installation.md) | Requirements, install steps, updates |
-| [Dashboard & Views](dashboard-views.md) | List, Gantt, Kanban, Calendar views |
-| [Task Management](task-management.md) | Dependencies, subtasks, bookmarks, templates |
-| [AI Suggestions](ai-suggestions.md) | Assignee and due date suggestions |
-| [Sprints](sprints.md) | Sprint planning, backlog, board, velocity |
-| [Budget & Invoicing](budget-invoicing.md) | EVM, retainers, invoice integration |
-| [Calendar Sync](calendar-sync.md) | Google Calendar, Outlook subscription |
-| [Client Portal](client-portal.md) | Milestone approvals, project updates |
-| [Reporting & Analytics](reporting-analytics.md) | Export, custom reports, resource allocation |
-| [Collaboration](collaboration.md) | Communication hub, timesheet approvals, email digest |
-| [Settings](settings.md) | Custom fields, workflows, notifications, permissions |
-| [Support](support.md) | Getting help |
+| [📍 **Menu Guide**](menu-guide.md) | What each submenu item does and how to configure it |
+| [🚀 Installation](installation.md) | Requirements, install steps, updates |
+| [📊 Dashboard & Views](dashboard-views.md) | List, Gantt, Kanban, Calendar views |
+| [✅ Task Management](task-management.md) | Dependencies, subtasks, bookmarks, templates |
+| [🤖 AI Suggestions](ai-suggestions.md) | Assignee and due date suggestions |
+| [🏃 Sprints](sprints.md) | Sprint planning, backlog, board, velocity |
+| [💰 Budget & Invoicing](budget-invoicing.md) | EVM, retainers, invoice integration |
+| [📅 Calendar Sync](calendar-sync.md) | Google Calendar, Outlook subscription |
+| [👤 Client Portal](client-portal.md) | Milestone approvals, project updates |
+| [📈 Reporting & Analytics](reporting-analytics.md) | Export, custom reports, resource allocation |
+| [👥 Collaboration](collaboration.md) | Communication hub, timesheet approvals, email digest |
+| [⚙️ Settings](settings.md) | Custom fields, workflows, notifications, permissions |
+| [🆘 Support](support.md) | Getting help |
 
 ---
 
